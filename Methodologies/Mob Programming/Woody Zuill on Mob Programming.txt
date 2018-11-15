@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=K0eNqeKDpss
-Woody >uill on Mob Programming
+# Woody Zuill on Mob Programming
 
 Gather together people with all the needed skills and knowledge.
 	Completely different. All together.
