@@ -2,20 +2,20 @@ https://www.youtube.com/watch?v=K0eNqeKDpss
 # Woody Zuill on Mob Programming
 
 Gather together people with all the needed skills and knowledge.
-	Completely different. All together.
+- Completely different. All together.
 
 More than 1 keyboard. More than 1 computer, so people can research while coding.
 
 In the example of his team. 1 telephone for the whole team, so they work together as a TEAM.
 
 A video of his team working mob programming
-	In his team (example) in 2012 they spent the first hour as a learning session regarding a question made the day before  that they didn't feel it was appropriate to review it while they were in the middle of their work.
-	The driver switches every 15 minutes
-	The PO spend as much time as they can with the team.
-	You're allowed to go work alone anytime you want to
-	You're in control of yourself (go for a walk, take a nap, etc)
-	They had dinner together in the same room.
-	After lunch they walked and didn't talk about their work. Fun time together.
+- In his team (example) in 2012 they spent the first hour as a learning session regarding a question made the day before  that they didn't feel it was appropriate to review it while they were in the middle of their work.
+- The driver switches every 15 minutes
+- The PO spend as much time as they can with the team.
+- You're allowed to go work alone anytime you want to
+- You're in control of yourself (go for a walk, take a nap, etc)
+- They had dinner together in the same room.
+- After lunch they walked and didn't talk about their work. Fun time together.
 
 Why would we work this way?
 	Knowledge sharing
