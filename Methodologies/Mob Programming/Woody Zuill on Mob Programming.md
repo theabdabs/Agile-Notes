@@ -18,24 +18,24 @@ A video of his team working mob programming
 - After lunch they walked and didn't talk about their work. Fun time together.
 
 Why would we work this way?
-	Knowledge sharing
-	Continuous code and design review
-	Higher quality
-	Rapid feedback
-	Many perspectives on the work
-	Better solutions
-	Work on the right things
-	Flow of work items (x10 things done in his team)
-	More fun, less stressful, more engageing, etc.
+- Knowledge sharing
+- Continuous code and design review
+- Higher quality
+- Rapid feedback
+- Many perspectives on the work
+- Better solutions
+- Work on the right things
+- Flow of work items (x10 things done in his team)
+- More fun, less stressful, more engageing, etc.
 
 It's NOT 5 people watching 1 person coding
-	Example, basketball team. The goal is to pass the ball to someone that has a good chance to shoot to basket, not to shoot.
+- Example, basketball team. The goal is to pass the ball to someone that has a good chance to shoot to basket, not to shoot.
 
 Pair Programming
-	Driver/Navigator. Like a car where the passenger has the map. But he doesn't tell the driver to stop on red lights as he already know.
-	Usually derives in Driver/Observer. Someone takes the keyboard and says "I know how to do that", then if you ask why he says "I'll tell you later". He's focused on the code, but the important part is the human brain part.
+- Driver/Navigator. Like a car where the passenger has the map. But he doesn't tell the driver to stop on red lights as he already know.
+- Usually derives in Driver/Observer. Someone takes the keyboard and says "I know how to do that", then if you ask why he says "I'll tell you later". He's focused on the code, but the important part is the human brain part.
 	=> For an idea to go from someone's head into the computer it must go through tsomeone elses's hands.
 
-	We are in min 48:40
+We are in min 48:40
 	
 	
