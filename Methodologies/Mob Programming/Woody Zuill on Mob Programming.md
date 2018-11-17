@@ -46,9 +46,9 @@ Everybody is allowed to talk at anytime with only 2 rules:
 - No talk when someone else is speaking
 - No divert off the topic that someone else is talking about. If you want to divert, instead of we may try this and start coding you might say, when we're done with this I want to see if we can try something else
 
-We can get rid of a lot of disruption and disagreement by simply agree to try everybody's ideas. Usually once you've tryed a couple of them usually a better idea shows up.
+We can get rid of a lot of disruption and disagreement by simply agree to try everybody's ideas. Usually once you've tried a couple of them a better idea shows up.
 
-It is not enough of discussing an idea, you have to try it. If 2 ideas are discussed the team can be stuck in the discussion. Try an idea and learn from it. A better idea may show up. It is courtesy to try someone else's idea, even if you think it will never work. An NEVER tell I told you that it wasn't going to work.
+It is not enough of discussing an idea, you have to try it. If 2 ideas are discussed the team can be stuck in the discussion. **Try an idea and learn from it**. A better idea may show up. It is courtesy to try someone else's idea, even if you think it will never work. And **NEVER tell I told you that it wasn't going to work**.
 
 > **Teamwork isn't something you get from a team, teamwork is something you bring to a team. It's your willingness to be a good team member.**
 
@@ -72,11 +72,6 @@ Q: Should we try an idea even if the whole team is against it (minus the one tha
 A: If we don't consider equally all of the ideas we're missing the value in the future. It might look like we're wasting time but we're not in the long run
 
 Q: How to avoid navigators thinking that their idea is the good one and start thinking in the team idea
-A: There are a thousand right ways to do anything, so stop thinking yours is the one right away. And the first one you find it's the best one. You'll figure it out later if it is the right one but for right now that's what moves you forward.The first one you find use it and then if you feel you need a better one then that's the time to investigate it. Because we will spend a lot of time looking for the perfect right way and will never come upon it.
+A: **There are a thousand right ways to do anything, so stop thinking yours is the one right away**. And the first one you find it's the best one. You'll figure it out later if it is the right one but for right now because **that's what moves you forward**.The first one you find use it and then if you feel you need a better one then that's the time to investigate it. Because we will spend a lot of time looking for the perfect right way and will never come upon it.
 
 
-
-
-We are in min 48:40
-	
-	
