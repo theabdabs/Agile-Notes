@@ -1,0 +1,44 @@
+https://www.infoq.com/presentations/metrics-visualize-team-reliability
+@catswetel on Twitter
+
+You need to know when you start and when you finish
+
+## Time in Process
+Metric on Responsiveness
+Units of time per unit of work
+Shown in scatter plot: y axis Time in Process, x axis Date Delivered
+90% and average lines
+
+Shown in distribution: y axis frequency, x axis Time in process (in buckets, 1-5, 6 - 10, etc)
+
+Thorughput (Units of work per unit of time)
+Blocks in the scatterplot
+
+
+Another metric
+y axis number of times
+x axis number of work items delivered in a given time (weeks?)
+so 6 is 85% (85% of the times we deliver 6 work items or more)
+11 is 50% (50% of the times we deliver 11 work items or more)
+
+Per state (column in Kanban board)
+Flow efficiency. With per state metrics to show where is the waiting time.
+
+
+## How stable our system is?
+Net between arrival and departure date. In this month we started 25 thing and we finished 30.
+Do not make the bars red and green.
+
+
+## Cumulative flow
+* Average arrival rate (pendiente de fuera)
+* Average departure rate (slope of inner line -done-)
+* Average work in process (difference between the bottom line and the top line)
+* Average time in process (difference horizontal)
+Never provide a prediction based on this (they are averages)
+=> Little's law
+* Average # of items in a system = Average arrival rate * Average time spent in the system
+* Average time spent in a system = Average # of items in a system / Average throughput
+
+You need to take the statistics and write a story (give context). Example: we deliver 85% of the items in less than 55 days but provided that we are now finishing more things than starting it could be even less.
+Provide numbers in context.
